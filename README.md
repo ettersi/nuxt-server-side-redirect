@@ -1,4 +1,4 @@
-# Server Side Redirect MWE
+# Nuxt Server Side Redirect MWE
 
 - Run the following:
   ```bash
